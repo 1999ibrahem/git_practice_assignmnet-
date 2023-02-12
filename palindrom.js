@@ -1,4 +1,4 @@
-  let str=[nrupul]
+ let str="naman"
 let N=str.length
 {
 
